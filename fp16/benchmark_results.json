@@ -1,0 +1,8 @@
+{
+  "encoder_latency_ms": 235.97568217664957,
+  "decoder_joint_step_latency_ms": 0.47675371170043945,
+  "total_pipeline_ms": 259.81336776167154,
+  "rtf": 0.05196267355233431,
+  "audio_duration_s": 5.0,
+  "total_model_size_fp32_mb": 1212.6131238937378
+}

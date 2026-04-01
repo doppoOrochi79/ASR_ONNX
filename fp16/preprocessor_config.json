@@ -1,0 +1,15 @@
+{
+  "sample_rate": 16000,
+  "n_fft": 512,
+  "window_size_sec": 0.025,
+  "window_stride_sec": 0.01,
+  "window_type": "hann",
+  "n_mels": 128,
+  "log": true,
+  "normalize": "per_feature",
+  "dither": 1e-05,
+  "pad_to": 0,
+  "window_size_samples": 400,
+  "window_stride_samples": 160,
+  "hop_length": 160
+}
